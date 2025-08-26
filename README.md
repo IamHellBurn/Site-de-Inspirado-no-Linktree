@@ -24,7 +24,7 @@ Um clone simples e elegante do Linktree, criado com PHP e MySQL, permitindo que 
 ### 1. Clone/Download do projeto
 ```bash
 # Clone o repositório ou faça download dos arquivos
-git clone [https://github.com/IamHellBurn/Site-de-Inspirado-no-Linktree.git]
+git clone https://github.com/IamHellBurn/Site-de-Inspirado-no-Linktree.git
 cd Site-de-Inspirado-no-Linktree
 ```
 
