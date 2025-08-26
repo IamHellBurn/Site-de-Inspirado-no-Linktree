@@ -197,8 +197,10 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 💰 Ajuda
 
-Para ajudar financeiramente:
-- 🔑 pix: 901d17cd-2de8-4a1f-ae04-4b001ea23ab6
+Para ajudar financeiramente (🔑Pix):
+```bash
+901d17cd-2de8-4a1f-ae04-4b001ea23ab6
+```
 
 ---
 
