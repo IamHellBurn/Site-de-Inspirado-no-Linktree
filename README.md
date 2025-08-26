@@ -82,7 +82,8 @@ chmod 644 admin/*.php
 ├── admin/                 # Painel administrativo
 │   ├── index.php          # Dashboard admin
 │   └── login.php          # Página de login
-├── database_structure.sql # Estrutura do banco
+├── SQL
+│   ├──  database_structure.sql # Estrutura do banco
 └── README.md             # Este arquivo
 ```
 
